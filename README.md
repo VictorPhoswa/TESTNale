@@ -15,7 +15,7 @@
 - 📫 How to reach me **nalediletseka@gmail.com**
 
 
-<div class="table">
+<div class="table" style="width: 100%">
   <div class="tr">
     <span class="td">
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
