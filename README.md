@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td>Emil</td>
+    <td>- 🌱 I’m currently learning **Apache Spark**</td>
     <td>Tobias</td>
     <td>Linus</td>
   </tr>
