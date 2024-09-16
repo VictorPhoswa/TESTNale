@@ -21,8 +21,10 @@
       - 🌱 I’m currently learning **Apache Spark** <br/>
       - 💬 Ask me about **Java, Python, SQL, Excel, R, MS Power BI**
     </td>
-    <td>Tobias</td>
-    <td>Linus</td>
+    <td>
+      <img align"right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif">
+    </td>
+    
   </tr>
 </table>
 
