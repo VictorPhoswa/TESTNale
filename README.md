@@ -14,29 +14,22 @@
 
 - 📫 How to reach me **nalediletseka@gmail.com**
 
-<table>
-  <tr>
-    <td>
-      - 🌱 I’m currently learning **Apache Spark**
-      - 📫 How to reach me **nalediletseka@gmail.com**
-    </td>
-    <td>
-      <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif">
-    </td>
-  </tr>
-</table>
-
 
 <div class="table">
   <div class="tr">
-    <span class="td">Row 1, Cell 1</span>
-    <span class="td">Row 1, Cell 2</span>
-    <span class="td">Row 1, Cell 3</span>
-  </div>
-  <div class="tr">
-    <span class="td">Row 2, Cell 1</span>
-    <span class="td">Row 2, Cell 2</span>
-    <span class="td">Row 2, Cell 3</span>
+    <span class="td">
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
+      - 🌱 I’m currently learning **Apache Spark**
+
+      - 💬 Ask me about **Java, Python, SQL, Excel, R, MS Power BI**
+      
+      - 📫 How to reach me **nalediletseka@gmail.com**
+    </span>
+    
+    <span class="td">
+      <img align"right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif">
+    </span>
+
   </div>
 </div>
 
