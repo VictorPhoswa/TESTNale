@@ -18,13 +18,7 @@
 <div class="table">
   <div class="tr">
     <span class="td">
-      
-      
-
-      - 💬 Ask me about **Java, Python, SQL, Excel, R, MS Power BI**
-      
-      - 📫 How to reach me **nalediletseka@gmail.com**
-      
+      - 🌱 I’m currently learning
     </span>
 
 
