@@ -15,21 +15,13 @@
 - 📫 How to reach me **nalediletseka@gmail.com**
 
 
-<div class="table">
-  <div class="tr">
-    <span class="td">
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
-    </span>
-    <span class="td">
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
-    </span>
-    <span class="tr">
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
-    </span>
-
-
-  </div>
-</div>
+<table>
+  <tr>
+    <td>Emil</td>
+    <td>Tobias</td>
+    <td>Linus</td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
