@@ -26,6 +26,20 @@
   </tr>
 </table>
 
+
+<div class="table">
+  <div class="tr">
+    <span class="td">Row 1, Cell 1</span>
+    <span class="td">Row 1, Cell 2</span>
+    <span class="td">Row 1, Cell 3</span>
+  </div>
+  <div class="tr">
+    <span class="td">Row 2, Cell 1</span>
+    <span class="td">Row 2, Cell 2</span>
+    <span class="td">Row 2, Cell 3</span>
+  </div>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naledi-khumalo-140a6ab5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naledi-khumalo-140a6ab5" height="30" width="40" /></a>
