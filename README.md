@@ -19,8 +19,7 @@
   <div class="tr">
     <span class="td">
       
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
-      - 🌱 I’m currently learning **Apache Spark**
+      
 
       - 💬 Ask me about **Java, Python, SQL, Excel, R, MS Power BI**
       
