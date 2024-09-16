@@ -17,15 +17,10 @@
 <table>
   <tr>
     <td>
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
       - 🌱 I’m currently learning **Apache Spark**
-
-      - 💬 Ask me about **Java, Python, SQL, Excel, R, MS Power BI**
-      
-      - 📫 How to reach me **nalediletseka@gmail.com**
     </td>
     <td>
-      <img align"right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif">
+      <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif">
     </td>
   </tr>
 </table>
