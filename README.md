@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-      - 🌱 I’m currently learning **Apache Spark**
+      - 🌱 I’m currently learning **Apache Spark** <br/>
       - 💬 Ask me about **Java, Python, SQL, Excel, R, MS Power BI**
     </td>
     <td>Tobias</td>
