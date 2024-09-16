@@ -27,8 +27,10 @@
       - 📫 How to reach me **nalediletseka@gmail.com**
     </span>
     
-    <span class="td">Row 1, Cell 2</span>
-    <span class="td">Row 1, Cell 3</span>
+    <span class="td">
+    <img align"right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif">
+    </span>
+  
   </div>
 </div>
 
