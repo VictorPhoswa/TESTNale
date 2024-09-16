@@ -15,23 +15,23 @@
 - 📫 How to reach me **nalediletseka@gmail.com**
 
 
-<table style="border: 0" >
-  <tr>
-    <td>
+<div class="table">
+  <div class="tr">
+    <span class="td">
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
       <br/>
-      - 🌱 I’m currently learning **Apache Spark** 
+      - 🌱 I’m currently learning **Apache Spark**
       <br/>
       - 💬 Ask me about **Java, Python, SQL, Excel, R, MS Power BI**
       <br/>
       - 📫 How to reach me **nalediletseka@gmail.com**
-    </td>
-    <td>
-      <img align"right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif">
-    </td>
+    </span>
     
-  </tr>
-</table>
+    <span class="td">Row 1, Cell 2</span>
+    <span class="td">Row 1, Cell 3</span>
+  </div>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
